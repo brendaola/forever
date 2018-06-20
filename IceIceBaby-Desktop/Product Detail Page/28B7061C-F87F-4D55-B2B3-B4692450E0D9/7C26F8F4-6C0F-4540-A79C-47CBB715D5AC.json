@@ -24,21 +24,24 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 4,
-  "masterInfluenceEdgeMaxYPadding": 3,
-  "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
   "name": "Product_Title_Desktop",
   "nameIsFixed": false,
-  "overrides": {
-    "65C10AB3-F985-4DA8-962E-908857B47F92": "Watermelondrea",
-    "850CE0DE-B77D-4FD9-BBAA-DCC034488CF8": {
-      "symbolID": "E328FFD4-7E88-4237-9BB2-AF6FFE5AAF24"
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "65C10AB3-F985-4DA8-962E-908857B47F92_stringValue",
+      "value": "Watermelondrea"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "850CE0DE-B77D-4FD9-BBAA-DCC034488CF8_symbolID",
+      "value": "E328FFD4-7E88-4237-9BB2-AF6FFE5AAF24"
     }
-  },
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

@@ -24,22 +24,29 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 0,
-  "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
   "name": "Product_Title_Desktop",
   "nameIsFixed": false,
-  "overrides": {
-    "65C10AB3-F985-4DA8-962E-908857B47F92": "Simpsons Donuts",
-    "850CE0DE-B77D-4FD9-BBAA-DCC034488CF8": {
-      "symbolID": "E7BF2E5F-14E7-4A4F-A3AB-0157B6D4FAC3"
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "65C10AB3-F985-4DA8-962E-908857B47F92_stringValue",
+      "value": "Simpsons Donuts"
     },
-    "E3CF1695-C129-4B18-8BFA-32F40A19A7E5": "Eggo Eleven"
-  },
+    {
+      "_class": "overrideValue",
+      "overrideName": "850CE0DE-B77D-4FD9-BBAA-DCC034488CF8_symbolID",
+      "value": "E7BF2E5F-14E7-4A4F-A3AB-0157B6D4FAC3"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E3CF1695-C129-4B18-8BFA-32F40A19A7E5_stringValue",
+      "value": "Eggo Eleven"
+    }
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

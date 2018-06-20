@@ -24,64 +24,89 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 30,
-  "masterInfluenceEdgeMaxYPadding": 58,
-  "masterInfluenceEdgeMinXPadding": 128,
-  "masterInfluenceEdgeMinYPadding": 1,
   "name": "Landing / Desktop / Products overview",
   "nameIsFixed": false,
-  "overrides": {
-    "2A16460A-EC2B-4DD2-9E7D-43C948E8FF85": {
-      "330E8F6A-F7A2-485C-8D7F-69CA85D38B10": {
-        "symbolID": "64CB2C4C-BD25-47B1-AFE0-26EDB3211FDF"
-      },
-      "symbolID": "BC6B43F2-9107-44EE-B083-5CCABF5D119E"
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "598C0AC1-8060-43DB-B443-D7D4AF4112DE/5307F51E-3F58-4E96-9C74-F7DD78E2012A_symbolID",
+      "value": "F7AF5BBE-2BBE-4FC0-8892-4F81D01315F8"
     },
-    "3B6520DE-1F09-4A00-8FF6-54CDAFAAD1B0": {
-      "330E8F6A-F7A2-485C-8D7F-69CA85D38B10": {
-        "symbolID": "ACDC12D4-9BB0-4DFD-BC4F-7B07588786D8"
-      },
-      "5307F51E-3F58-4E96-9C74-F7DD78E2012A": {
-        "8D24D910-C537-4F82-960C-32766906CA9B": {
-          "symbolID": "B1E20993-095E-433F-833D-7B29223E9A6E"
-        },
-        "symbolID": "4D920C09-E946-4BE9-9A24-FE1C0AAD8A46"
-      },
-      "A00931EE-BC75-46B2-93F7-DA263188C95E": "Peanut Butter Jelly",
-      "symbolID": "BC6B43F2-9107-44EE-B083-5CCABF5D119E"
+    {
+      "_class": "overrideValue",
+      "overrideName": "598C0AC1-8060-43DB-B443-D7D4AF4112DE/330E8F6A-F7A2-485C-8D7F-69CA85D38B10_symbolID",
+      "value": "4F6CAE66-7150-4CD1-BD6D-936787AE081B"
     },
-    "598C0AC1-8060-43DB-B443-D7D4AF4112DE": {
-      "330E8F6A-F7A2-485C-8D7F-69CA85D38B10": {
-        "symbolID": "4F6CAE66-7150-4CD1-BD6D-936787AE081B"
-      },
-      "5307F51E-3F58-4E96-9C74-F7DD78E2012A": {
-        "symbolID": "F7AF5BBE-2BBE-4FC0-8892-4F81D01315F8"
-      },
-      "A00931EE-BC75-46B2-93F7-DA263188C95E": "Eggo Eleven"
+    {
+      "_class": "overrideValue",
+      "overrideName": "598C0AC1-8060-43DB-B443-D7D4AF4112DE/A00931EE-BC75-46B2-93F7-DA263188C95E_stringValue",
+      "value": "Eggo Eleven"
     },
-    "7192DE2A-04BD-4D28-BCEE-C4FB509C2E55": {
-      "485B9C52-5283-4FCE-82FB-201A144BFEA2": {
-        "symbolID": ""
-      }
+    {
+      "_class": "overrideValue",
+      "overrideName": "BB78656F-D39A-466D-BEED-1C440E96FC90/330E8F6A-F7A2-485C-8D7F-69CA85D38B10_symbolID",
+      "value": "6679F792-CDC0-46AE-8C99-97113A3D21A5"
     },
-    "BB78656F-D39A-466D-BEED-1C440E96FC90": {
-      "330E8F6A-F7A2-485C-8D7F-69CA85D38B10": {
-        "symbolID": "6679F792-CDC0-46AE-8C99-97113A3D21A5"
-      }
+    {
+      "_class": "overrideValue",
+      "overrideName": "3B6520DE-1F09-4A00-8FF6-54CDAFAAD1B0_symbolID",
+      "value": "BC6B43F2-9107-44EE-B083-5CCABF5D119E"
     },
-    "C3DEA121-DF97-4053-94C7-A9D604AE5839": {
-      "330E8F6A-F7A2-485C-8D7F-69CA85D38B10": {
-        "symbolID": "3ABE7E7B-596C-4EC4-B587-16B0C3DEA41B"
-      },
-      "5307F51E-3F58-4E96-9C74-F7DD78E2012A": {
-        "symbolID": "4D920C09-E946-4BE9-9A24-FE1C0AAD8A46"
-      },
-      "A00931EE-BC75-46B2-93F7-DA263188C95E": "Pop Corn"
+    {
+      "_class": "overrideValue",
+      "overrideName": "3B6520DE-1F09-4A00-8FF6-54CDAFAAD1B0/A00931EE-BC75-46B2-93F7-DA263188C95E_stringValue",
+      "value": "Peanut Butter Jelly"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "3B6520DE-1F09-4A00-8FF6-54CDAFAAD1B0/330E8F6A-F7A2-485C-8D7F-69CA85D38B10_symbolID",
+      "value": "ACDC12D4-9BB0-4DFD-BC4F-7B07588786D8"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "3B6520DE-1F09-4A00-8FF6-54CDAFAAD1B0/5307F51E-3F58-4E96-9C74-F7DD78E2012A_symbolID",
+      "value": "4D920C09-E946-4BE9-9A24-FE1C0AAD8A46"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "3B6520DE-1F09-4A00-8FF6-54CDAFAAD1B0/5307F51E-3F58-4E96-9C74-F7DD78E2012A/8D24D910-C537-4F82-960C-32766906CA9B_symbolID",
+      "value": "B1E20993-095E-433F-833D-7B29223E9A6E"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C3DEA121-DF97-4053-94C7-A9D604AE5839/A00931EE-BC75-46B2-93F7-DA263188C95E_stringValue",
+      "value": "Pop Corn"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C3DEA121-DF97-4053-94C7-A9D604AE5839/330E8F6A-F7A2-485C-8D7F-69CA85D38B10_symbolID",
+      "value": "3ABE7E7B-596C-4EC4-B587-16B0C3DEA41B"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C3DEA121-DF97-4053-94C7-A9D604AE5839/5307F51E-3F58-4E96-9C74-F7DD78E2012A_symbolID",
+      "value": "4D920C09-E946-4BE9-9A24-FE1C0AAD8A46"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "2A16460A-EC2B-4DD2-9E7D-43C948E8FF85_symbolID",
+      "value": "BC6B43F2-9107-44EE-B083-5CCABF5D119E"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "2A16460A-EC2B-4DD2-9E7D-43C948E8FF85/330E8F6A-F7A2-485C-8D7F-69CA85D38B10_symbolID",
+      "value": "64CB2C4C-BD25-47B1-AFE0-26EDB3211FDF"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "7192DE2A-04BD-4D28-BCEE-C4FB509C2E55/485B9C52-5283-4FCE-82FB-201A144BFEA2_symbolID",
+      "value": ""
     }
-  },
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

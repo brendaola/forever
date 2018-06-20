@@ -24,29 +24,34 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 0,
-  "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
   "name": "Product / Pack",
   "nameIsFixed": false,
-  "overrides": {
-    "0853EF0B-F75B-424B-B3B2-245FC23103AE": {
-      "9F01B21C-20AD-4E77-B079-CF1C6B4CD4C0": "x 8"
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "CFAC8C7E-17F7-4880-BA8E-F80A946748A7_stringValue",
+      "value": "$22"
     },
-    "7E480EBD-5557-4CBA-968B-130BF30F0C33": {
-      "07D06974-8E79-45C7-BC9B-62ECF1B270E1": {
-        "symbolID": "79941261-DD3B-491D-851A-F7E017383453"
-      }
+    {
+      "_class": "overrideValue",
+      "overrideName": "7E480EBD-5557-4CBA-968B-130BF30F0C33/07D06974-8E79-45C7-BC9B-62ECF1B270E1_symbolID",
+      "value": "79941261-DD3B-491D-851A-F7E017383453"
     },
-    "B1076E3F-22C9-4920-935F-C585557E6F9B": {
-      "symbolID": "DA7776DE-FDD2-46B2-8DD6-63952A1683F4"
+    {
+      "_class": "overrideValue",
+      "overrideName": "B1076E3F-22C9-4920-935F-C585557E6F9B_symbolID",
+      "value": "DA7776DE-FDD2-46B2-8DD6-63952A1683F4"
     },
-    "CFAC8C7E-17F7-4880-BA8E-F80A946748A7": "$22"
-  },
+    {
+      "_class": "overrideValue",
+      "overrideName": "0853EF0B-F75B-424B-B3B2-245FC23103AE/9F01B21C-20AD-4E77-B079-CF1C6B4CD4C0_stringValue",
+      "value": "x 8"
+    }
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

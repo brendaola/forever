@@ -24,21 +24,24 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 4,
-  "masterInfluenceEdgeMaxYPadding": 3,
-  "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
   "name": "Product_Title_Desktop",
   "nameIsFixed": false,
-  "overrides": {
-    "65C10AB3-F985-4DA8-962E-908857B47F92": "Chocolate Rain",
-    "850CE0DE-B77D-4FD9-BBAA-DCC034488CF8": {
-      "symbolID": "CE7B1259-D30A-49F1-9AA3-32DF64677337"
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "65C10AB3-F985-4DA8-962E-908857B47F92_stringValue",
+      "value": "Chocolate Rain"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "850CE0DE-B77D-4FD9-BBAA-DCC034488CF8_symbolID",
+      "value": "CE7B1259-D30A-49F1-9AA3-32DF64677337"
     }
-  },
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

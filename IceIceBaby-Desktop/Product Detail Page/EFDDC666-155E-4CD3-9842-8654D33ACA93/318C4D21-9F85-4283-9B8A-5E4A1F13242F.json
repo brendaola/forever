@@ -24,21 +24,24 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 1,
-  "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
   "name": "Product_Description_Desktop",
   "nameIsFixed": false,
-  "overrides": {
-    "1EA03CBE-6B9C-4DAA-817B-AC5F4741BF83": "Not recommended for Demogorgons. Superheroe powers and nose bleading side effects possible. ",
-    "A2B03576-495C-4D31-8F95-C3C6B15DBBB7": {
-      "symbolID": "2B69D400-23CB-451B-9098-21415F2B66A9"
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "A2B03576-495C-4D31-8F95-C3C6B15DBBB7_symbolID",
+      "value": "2B69D400-23CB-451B-9098-21415F2B66A9"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "1EA03CBE-6B9C-4DAA-817B-AC5F4741BF83_stringValue",
+      "value": "Not recommended for Demogorgons. Superheroe powers and nose bleading side effects possible. "
     }
-  },
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

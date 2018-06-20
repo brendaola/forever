@@ -24,15 +24,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 30,
-  "masterInfluenceEdgeMaxYPadding": 34,
-  "masterInfluenceEdgeMinXPadding": 30,
-  "masterInfluenceEdgeMinYPadding": 26,
   "name": "Landing / Intro / Desktop",
   "nameIsFixed": false,
+  "overrideValues": [
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

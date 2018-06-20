@@ -24,21 +24,24 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 4,
-  "masterInfluenceEdgeMaxYPadding": 3,
-  "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
   "name": "Product_Title_Desktop",
   "nameIsFixed": false,
-  "overrides": {
-    "65C10AB3-F985-4DA8-962E-908857B47F92": "Orange County",
-    "850CE0DE-B77D-4FD9-BBAA-DCC034488CF8": {
-      "symbolID": "55B31B9A-4BC6-48EF-B9E0-3A9FC4E3ED41"
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "65C10AB3-F985-4DA8-962E-908857B47F92_stringValue",
+      "value": "Orange County"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "850CE0DE-B77D-4FD9-BBAA-DCC034488CF8_symbolID",
+      "value": "55B31B9A-4BC6-48EF-B9E0-3A9FC4E3ED41"
     }
-  },
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

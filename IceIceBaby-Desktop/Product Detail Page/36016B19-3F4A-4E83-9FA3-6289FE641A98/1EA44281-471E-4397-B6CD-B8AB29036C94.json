@@ -24,21 +24,24 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 4,
-  "masterInfluenceEdgeMaxYPadding": 3,
-  "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
   "name": "Product_Title_Desktop",
   "nameIsFixed": false,
-  "overrides": {
-    "65C10AB3-F985-4DA8-962E-908857B47F92": "Creamy Retro",
-    "850CE0DE-B77D-4FD9-BBAA-DCC034488CF8": {
-      "symbolID": "9BA9603B-C3A4-407A-8F03-E7972DC933A8"
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "65C10AB3-F985-4DA8-962E-908857B47F92_stringValue",
+      "value": "Creamy Retro"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "850CE0DE-B77D-4FD9-BBAA-DCC034488CF8_symbolID",
+      "value": "9BA9603B-C3A4-407A-8F03-E7972DC933A8"
     }
-  },
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

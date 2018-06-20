@@ -24,20 +24,19 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 30,
-  "masterInfluenceEdgeMaxYPadding": 58,
-  "masterInfluenceEdgeMinXPadding": 128,
-  "masterInfluenceEdgeMinYPadding": 1,
   "name": "Landing / Desktop / Products overview",
   "nameIsFixed": false,
-  "overrides": {
-    "2A16460A-EC2B-4DD2-9E7D-43C948E8FF85": {
-      "symbolID": "BC6B43F2-9107-44EE-B083-5CCABF5D119E"
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "2A16460A-EC2B-4DD2-9E7D-43C948E8FF85_symbolID",
+      "value": "BC6B43F2-9107-44EE-B083-5CCABF5D119E"
     }
-  },
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
