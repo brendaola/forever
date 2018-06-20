@@ -1,0 +1,182 @@
+{
+  "_class": "group",
+  "do_objectID": "E6C72B80-F055-4253-A476-A5790F44FB2C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 46,
+    "width": 306,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "61124EBB-D517-47C5-A2F0-4C1D153EB5DF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8CF7DAEF-B359-471C-8153-CE3329D19181"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5871F226-3B47-4F0A-82A7-F40C735D3DCB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B0E975E7-7C53-4DB0-8DFD-BDCEFECF2B46"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C9F457DA-4593-4892-A187-93947F6BE0B7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EC7B80D0-358F-4345-AAF1-70AAF38F91F5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "77C827F9-D5A2-4EED-B5AA-0E8C3F674C0B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "89617AA8-0AF1-4861-8693-E70F3A893B9A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5D2DB216-4365-4AC4-83BF-987CA4031729"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6C57F005-167B-4931-BF48-8BD9887A3D62"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "151BAA83-C383-4C40-8E42-DE306BCD7864"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "70ADFC70-3CC6-4C6A-81CC-F6665C5C433C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A699C785-1B41-41D0-95CF-846D3DE2249D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9A4B14F8-F8A9-4BDA-A2E3-42674A34A61A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F4308B0F-F850-47AC-BF84-503F850EFA4F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AEF4F389-8B93-4D02-B9F8-CCD6851F55DD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F83C069F-BB53-4A95-B727-3F6B0AF2D86B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9386F785-89E2-4577-ABC7-A0BD2D7ACFB8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "12393500-67A7-431B-8025-620C8EC5AB7E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1F77DBC2-4C2B-4844-A2E7-ECF5EA7ADB5D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4DE95E7F-30E1-4145-B118-59B0FC3AE861"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "57D96593-86E7-4D56-B30D-15F45B557BD0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B02CA378-F37A-4F51-8D36-6937AFF1BA4C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "43D3E392-E445-4291-81F3-A39296AB44CA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C751572A-EBA5-475F-8A15-289F04EB5E7B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "824CBBB5-D2F1-46E8-AC4A-3DAE24695197"
+    },
+    {
+      "class": "group",
+      "id": "5DA35EA5-1EA2-4308-AF3E-F33F647D4649"
+    },
+    {
+      "class": "group",
+      "id": "D234BA80-91EA-4B57-B437-6C7675943678"
+    },
+    {
+      "class": "group",
+      "id": "D6FB2D05-4B45-4A4E-B257-AED04AD91F23"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "29E27181-9394-4DBD-ADD9-5DB505D5B299"
+    }
+  ],
+  "name": "lights (1)",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 53,
+            "enabled": 1,
+            "modelID": "constraint_87011a16-b4d6-4081-bd9c-e1760970e601",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 330
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_cdf37ac0-6b89-4689-b2a1-305c3c90be28",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

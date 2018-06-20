@@ -1,0 +1,75 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "0F51C5E1-0950-4751-BF78-74C4C2B1C9C9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 58.74000000000009,
+    "width": 274.3669688608592,
+    "x": 163,
+    "y": 280
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "CTA / Add to Shopping cart",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "9BB249B4-565B-4087-96C7-3FC2C214F87D_stringValue",
+      "value": "Start shopping"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "07D06974-8E79-45C7-BC9B-62ECF1B270E1_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "4780D756-9798-47A8-A487-F4850BFE6CF6",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 58.74,
+            "enabled": 1,
+            "modelID": "constraint_cf44fd44-d592-414e-a5ea-6cb9561c2dc8",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 274.367
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_bdd42343-d980-439e-a184-8259c713ae1a",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

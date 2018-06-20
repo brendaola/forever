@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "B869455D-0D07-4831-A5F9-C621A3F5153A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 769,
+    "width": 768,
+    "x": 256,
+    "y": 695
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 30,
+  "masterInfluenceEdgeMaxYPadding": 58,
+  "masterInfluenceEdgeMinXPadding": 128,
+  "masterInfluenceEdgeMinYPadding": 1,
+  "name": "Landing / Desktop / Products overview",
+  "nameIsFixed": false,
+  "overrides": {
+    "2A16460A-EC2B-4DD2-9E7D-43C948E8FF85": {
+      "symbolID": "BC6B43F2-9107-44EE-B083-5CCABF5D119E"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "1B68EEAD-C332-4929-8851-D4734407B5AE",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,90 @@
+{
+  "_class": "page",
+  "do_objectID": "E7DB8C7A-AB14-4B3E-AC7B-996E8392B17A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "36016B19-3F4A-4E83-9FA3-6289FE641A98"
+    },
+    {
+      "class": "artboard",
+      "id": "28B7061C-F87F-4D55-B2B3-B4692450E0D9"
+    },
+    {
+      "class": "artboard",
+      "id": "B0BA0037-11D4-4513-A366-01EF62B6AE16"
+    },
+    {
+      "class": "artboard",
+      "id": "C61CFB8F-F96A-4778-A1DB-1C65A30F0E7F"
+    },
+    {
+      "class": "artboard",
+      "id": "D97F8DF6-93A8-46CF-9B6B-E6EA3F2B3851"
+    },
+    {
+      "class": "artboard",
+      "id": "0C8B43EB-951A-49E7-8A69-61432D745D7F"
+    },
+    {
+      "class": "artboard",
+      "id": "EFDDC666-155E-4CD3-9842-8654D33ACA93"
+    },
+    {
+      "class": "artboard",
+      "id": "E13FA306-2AEB-42B4-B2C5-4F8E8D29F000"
+    },
+    {
+      "class": "artboard",
+      "id": "47153B5E-8BA3-4B44-8DF8-BD6CD8DA3D26"
+    }
+  ],
+  "name": "Product Detail Page",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

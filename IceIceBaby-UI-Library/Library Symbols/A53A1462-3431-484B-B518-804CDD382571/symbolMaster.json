@@ -1,0 +1,130 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 13617,
+  "do_objectID": "A53A1462-3431-484B-B518-804CDD382571",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 72,
+    "width": 311,
+    "x": -554,
+    "y": 5898
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "011348A4-F923-4DE5-BAAA-2CC7647316D3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7BAE1C4C-117C-4A33-A842-FC4645EA5E50"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F8089F78-80EA-41DF-8CB4-5AFC0885713D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2B704755-996C-46C7-8942-69334C2D00D4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D1033A1B-931A-437F-B912-2495907D8C6B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "308D161C-F9CA-4243-9907-42C1ABC5C3E2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "86FBE222-A3AD-4A42-9626-AC920DD777A3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9DE93FC2-26FB-4A64-8C13-7DBD6AB0610E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "038B150E-1A5E-4F84-AFE3-9967EC6F3696"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C5D81902-1E0C-4752-A43C-28CF71CBFC67"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B9765AD2-CCEF-4168-92CB-DD96A9FE3750"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0D0752F1-5A0F-4AF2-89D8-4875074EDEAD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A9C96BFD-E8A4-42E8-9386-56284DA4C1E7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E3F93D73-A251-44F1-AF2E-23EE12E5B2AA"
+    }
+  ],
+  "name": "Special / Badge / Stranger things / Lights / Offer",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "D3757864-A539-427A-B1CF-54D8DC70C94F",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

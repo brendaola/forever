@@ -1,0 +1,94 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 3482,
+  "do_objectID": "4EF79D17-3751-4F9C-AD6E-9417CC7CE4C8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 494,
+    "width": 600,
+    "x": -843,
+    "y": 4179
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5198879E-CE91-413C-AB96-39AFFDB7F0ED"
+    },
+    {
+      "class": "text",
+      "id": "14EA09BA-2B0F-494E-9A2A-8081DFC12168"
+    },
+    {
+      "class": "text",
+      "id": "0E6F667A-4006-4CC6-882D-51C3279BAF8B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DDAE7393-CFC3-4026-8CFC-6AA668E18953"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "611FE729-DFCE-4AED-8430-AC80B2A1E753"
+    }
+  ],
+  "name": "Landing / Intro / Tablet / Special",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "539F79B8-93F7-49BF-A86F-F19538B96CB1",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

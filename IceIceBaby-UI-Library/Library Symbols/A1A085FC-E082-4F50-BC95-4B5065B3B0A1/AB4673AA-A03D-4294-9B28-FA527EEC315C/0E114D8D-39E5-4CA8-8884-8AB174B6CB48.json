@@ -1,0 +1,78 @@
+{
+  "_class": "shapePath",
+  "booleanOperation": -1,
+  "do_objectID": "0E114D8D-39E5-4CA8-8884-8AB174B6CB48",
+  "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1,
+    "width": 1,
+    "x": 0.234375,
+    "y": 1.975000045000023
+  },
+  "isClosed": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Path",
+  "nameIsFixed": false,
+  "pointRadiusBehaviour": 1,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.041666874999975789, 0.15104171875000105}",
+      "curveMode": 4,
+      "curveTo": "{0, 0.140625}",
+      "hasCurveFrom": true,
+      "hasCurveTo": false,
+      "point": "{0, 0.140625}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.12760429687500618, 0.078124843750003947}",
+      "curveMode": 2,
+      "curveTo": "{0.075520703124993815, 0.14062515624999605}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.1015625, 0.109375}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.067708125000024211, 0.020833437500002105}",
+      "curveMode": 4,
+      "curveTo": "{0.13020843750001632, 0.041666875000004211}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.109375, 0}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0, 0.078125}",
+      "curveMode": 4,
+      "curveTo": "{0.031250156249996053, 0.046874843750003947}",
+      "hasCurveFrom": false,
+      "hasCurveTo": true,
+      "point": "{0, 0.078125}"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false
+}

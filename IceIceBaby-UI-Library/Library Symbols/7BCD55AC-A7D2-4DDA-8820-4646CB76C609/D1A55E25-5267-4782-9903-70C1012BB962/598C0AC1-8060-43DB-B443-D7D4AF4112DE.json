@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "598C0AC1-8060-43DB-B443-D7D4AF4112DE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 170,
+    "width": 149,
+    "x": 359,
+    "y": 86
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Landing / Product / Teaser",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "A00931EE-BC75-46B2-93F7-DA263188C95E_stringValue",
+      "value": "Simpsons Donuts"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "330E8F6A-F7A2-485C-8D7F-69CA85D38B10_symbolID",
+      "value": "2EA276FF-4D70-4C35-B423-19B64D75ECF2"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "5307F51E-3F58-4E96-9C74-F7DD78E2012A_symbolID",
+      "value": "EA913FB2-0F01-4DCD-BFE0-2AE71AC3D7D4"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "8CB8A5B1-65F9-41CB-B7CB-F6A8B168D67F",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
