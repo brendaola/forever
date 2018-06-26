@@ -20,7 +20,7 @@
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
-  "isFlippedVertical": false,
+  "isFlippedVertical": true,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 2,
@@ -34,7 +34,7 @@
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
-  "rotation": 0,
+  "rotation": 364,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
